@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Hachi Ndu</h1>
 <h3 align="center">
   💻 Fourth-Year Computer Engineering Student @ Toronto Metropolitan University <br/>
-  🤖 Interested in Machine Learning, Systems & Software Engineering | 🇨🇦 Canada
+  🤖 Software Systems • Machine Learning • Computer Vision | 🇨🇦 Canada
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HachiNdu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/HachiNdu?style=flat&color=0891b2" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/HachiNdu?label=Stars&style=flat&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=hachy-kc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/hachy-kc?style=flat&color=0891b2" alt="Followers"/>
 </p>
 
 ---
@@ -15,16 +14,19 @@
 ### 👨‍💻 About Me
 
 I’m **Hachi Ndu**, a **fourth-year Computer Engineering student** at **Toronto Metropolitan University** with a strong interest in  
-**software systems, machine learning, numerical problem-solving, and building reliable, scalable technology**.
+**software systems, machine learning, computer vision, and data-driven applications**.
 
-I enjoy working across the stack — from **low-level systems and embedded concepts** to **backend services, databases, and ML-driven applications**.  
-My academic and personal projects focus on **clean architecture, performance, and real-world applicability**.
+I enjoy building **robust backend systems**, experimenting with **ML pipelines**, and connecting theory with real-world engineering problems.  
+My work spans **databases, full-stack development, and intelligent systems**, with an emphasis on clean architecture and scalability.
 
-🔹 Currently focused on:
-- 🧠 **Machine Learning & Computer Vision**
-- ⚙️ **Systems programming and backend development**
-- 📊 **Data-driven applications & numerical computing**
-- 🏗️ **Designing robust, maintainable software systems**
+---
+
+### 🧭 Currently Focused On
+- 🧩 **Database Systems & Computer Vision**
+- 🤖 **Building my Capstone:** *AI-Powered Sign Language Translation System using DETR & ResNet*
+- 🚀 **Expanding skills** in **FastAPI, React, Docker, and CI/CD pipelines**
+- ⚙️ **Developing full-stack web solutions** using **Python & MySQL**
+- 🧠 **Learning & working with AI tools:** ChatGPT, Gemini, DeepSeek, Sora, and GitHub Copilot
 
 ---
 
@@ -34,19 +36,10 @@ My academic and personal projects focus on **clean architecture, performance, an
   <a href="https://www.linkedin.com/in/hachi-ndu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/HachiNdu" target="_blank">
+  <a href="https://github.com/hachy-kc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🧭 Currently Learning & Exploring
-- 🤖 **Machine Learning & Deep Learning** (PyTorch, TensorFlow)
-- 👁️ **Computer Vision** (OpenCV)
-- 🌐 **Full-Stack Development** (React, Next.js, Node.js, Firebase)
-- 🗄️ **Databases & Backend Systems** (MySQL, Oracle, AWS)
-- 🧪 **Numerical Computing & Simulation** (MATLAB, Python, Pandas)
 
 ---
 
@@ -83,14 +76,16 @@ My academic and personal projects focus on **clean architecture, performance, an
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-#### ⚙️ Embedded, Hardware & Systems
+#### ⚙️ Embedded & Systems
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -99,13 +94,7 @@ My academic and personal projects focus on **clean architecture, performance, an
 
 ---
 
-### 📊 GitHub Analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HachiNdu&theme=tokyonight)
-
----
-
 <p align="center">
-  ⚡ <strong>“Building reliable systems through code, data, and engineering discipline.”</strong> ⚡  
+  ⚡ <strong>“Engineering intelligent systems that connect data, vision, and software.”</strong> ⚡  
   <br/>— Hachi Ndu
 </p>
